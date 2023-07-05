@@ -36,7 +36,7 @@ During the build `moulin` will fetch this repository again into `yocto/` directo
 we recommend to download only `aos-rcar-demo2023.yaml`:
 
 ```sh
-# curl -O https://raw.githubusercontent.com/aoscloud/meta-aos-rcar-demo2023/main/aos-rcar-demo2023.yaml
+curl -O https://raw.githubusercontent.com/aoscloud/meta-aos-rcar-demo2023/main/aos-rcar-demo2023.yaml
 ```
 
 ### Building
